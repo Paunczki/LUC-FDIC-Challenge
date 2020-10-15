@@ -1,1 +1,10 @@
 /datasets/
+
+# Misc R files
+.Rproj.user
+*.Rproj
+*.Rhistory
+
+# R Markdown Temp Files
+*.utf8.md
+*.knit.md
